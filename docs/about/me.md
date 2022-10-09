@@ -1,7 +1,9 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/perfil.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Antonio Heinemann
+Guatemala
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+
+Purpose driven, sensible, powerful and courageous. I am a dreamer, a thinker, and a leader with immense desire to enable, to transform and to improve. To empower the collective and co-create a better world. I am a fan of beautiful, simple and functional design. I admire authenticity and humbleness. I respect people that walk their talk and live by love. My entire life has been a journey of understanding, expressing, and enjoying. Across this journey, I came to recognize that my purpose is centered around creation. Whether in art, in life, or in business, I feel a deep urge to participate in creative processes that generate value or beauty. Especially, projects of social impact and those that foster the wellbeing and enjoyment of humans.
