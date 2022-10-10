@@ -5,6 +5,8 @@ hide:
 
 # Bootcamp
 
+![](../images/MT01/fight.jpg)
+
 This week was our first formal week of the program. We got to know ourselves, our classmates and our surroundings all better as we begin to understand the context upon which we will be creating. The excitement is high. I really enjoyed going to different places around Poble Nou to get to know spaces, people and ideas which we will be interacting with. The way MDEf allows students to participate inside this wide ecosystem and inspire us make our ideas a reality is empowering.
 
 I am beginning to grasp the power of being a designer and the impact I can have for a healthier, more sustainable and conscious future.
@@ -27,14 +29,3 @@ I dream that the youth in the BoP will change the world by becoming a powerhouse
 I dream that people will live with consciousness, aware of the beauty of life and the importance of making the best of this great gift.
 
 I dream that humans contaminate less than they restore.
-
-----------
-----------
-
-![](../images/MT01/map.jpg)
-
-I understand life as a Spiral in constant expansion. I've used this symbol to express my Personal Development Plan for the master program. My knowledge, skills and attitude make waves that shape the spiral as it expands to those of the desired future.
-
-I am excited to make this dream a reality, and to become the person I need to be in order to shape the future I envision.
-
-![](../images/MT01/classmap.jpg)

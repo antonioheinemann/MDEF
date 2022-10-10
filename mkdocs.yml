@@ -13,15 +13,8 @@ nav:
   - About: about/me.md
   - Reflections :
       - Week 1:
-          - Bootcamp: docs\term1\01-Bootcamp.md
-          - Vision and Identity: term1/02-Atlas of Weak Signals.md
-      - Week 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
-  - Design Studio:
-      - Initial ideas: project/project.md
-
-
+          - Bootcamp: term1/01-Bootcamp.md
+          - Vision and Identity: term1/02-Vision.md
 
 extra:
   social:
