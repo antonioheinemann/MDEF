@@ -14,7 +14,7 @@ nav:
   - Reflections :
       - Week 1:
           - Bootcamp: term1/01-Bootcamp.md
-          - Vision and Identity: docs\term1\01-Vision.md
+          - Vision and Identity: term1/01-Vision/
 
 extra:
   social:
