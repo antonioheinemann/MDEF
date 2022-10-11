@@ -7,8 +7,8 @@ hide:
 
 ![](../images/MT01/map.jpg)
 
-I understand life as a Spiral in constant expansion. I've used this symbol to express my Personal Development Plan for the master program. My knowledge, skills and attitude make waves that shape the spiral as it expands to those of the desired future.
+I understand life as a Spiral in constant expansion. Time in motion as a driver for evolution. A dance, a movement, a spontaneous exgange of energy. I decided to use this symbol to express my Personal Development Plan for the master program. My knowledge, skills and attitude make waves that shape a spiral as it expands the person I dream to become in the future.
 
-I am excited to make this dream a reality, and to become the person I need to be in order to shape the future I envision.
+I am excited to become the person I need to be in order to shape the future I envision.
 
 ![](../images/MT01/classmap.jpg)
