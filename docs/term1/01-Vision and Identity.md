@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Vision
+# Vision and Identity
 
 ![](../images/MT01/map.jpg)
 
