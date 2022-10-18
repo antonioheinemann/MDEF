@@ -1,6 +1,7 @@
 ---
 hide:
     - toc
+    - H1
 ---
 
 ## Bootcamp

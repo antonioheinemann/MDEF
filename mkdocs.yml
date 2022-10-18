@@ -11,13 +11,12 @@ repo_url: 'https://github.com/antonioheinemann/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Reflections :
-      - Week 1:
-          - Bootcamp: term1/01-Bootcamp/
-          - Vision and Identity: term1/01-Vision/
-      - Week 2:
-          - Prototyping: term1/02-Prototyping/
-          - Atlas of Weak Signlas: term1/02-AoWS/
+  - Week 1:
+      - Bootcamp: term1/01-Bootcamp/
+      - Vision and Identity: term1/01-Vision/
+  - Week 2:
+      - Prototyping: term1/02-Prototyping/
+      - Atlas of Weak Signlas: term1/02-AoWS/
 
 extra:
   social:
@@ -35,23 +34,10 @@ extra:
 
 theme:
   palette:
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: white
+    primary: black
     accent: green
   font:
     # See available fonts at https://fonts.google.com/
