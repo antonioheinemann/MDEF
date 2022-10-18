@@ -14,7 +14,7 @@ Narrowing down was a difficult task as I had many interests to explore. Yet, I m
 - Natural and Sustainable
 - Empowering Creation
 
-## Design Space
+### Design Space
 ![](../images/MT01/miro.jpg)
 
 
@@ -27,6 +27,8 @@ Narrowing down was a difficult task as I had many interests to explore. Yet, I m
 I am interested in understanding those aspects that are most relevant in the health, specifically of humans. I am also interested in the health of all living beings, and of the planet, and so this topic could get much broader with time but for now my interests are purely human and anatomical. That is, how humans are interacting to topics such as disease, prevention, access, financing. Here, I am particularly interested in Diabetes and Renal Failure as well as understanding habits and thinking patterns inside the health spectrum. That is, what makes people action on their health? How can we re-imagine the relationship with our bodies in a more natural approach to health? The other side of the physical aspect is along the lines of Mental, Emotional and Energetic health. This involves understanding suffering, articulating it and working on liberation. A particular aspect I am interested inside this realm is that of ancestral conditioning and generational healing. Also, I am interested by understanding how neurological wiring frames our being and the importance of understanding this.
 
 All sort of ideas spark into mind with Health.
+
+
 - Health Literacy
 
 
