@@ -13,11 +13,11 @@ nav:
   - About: about/me.md
   - Reflections :
       - Week 1:
-          - Bootcamp: term1/01-Bootcamp.md
-          - Vision and Identity: term1/01-Vision and Identity.md
+          - Bootcamp: term1/01-Bootcamp/
+          - Vision and Identity: term1/01-Vision/
       - Week 2:
           - Prototyping: term1/02-Prototyping/
-          - Atlas of Weak Signlas: term1/02-Atlas of Weak Signals.md
+          - Atlas of Weak Signlas: term1/02-AoWS/
 
 extra:
   social:

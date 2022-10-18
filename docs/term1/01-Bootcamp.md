@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Bootcamp
+## Bootcamp
 
 ![](../images/MT01/fight.jpg)
 
