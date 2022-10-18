@@ -13,7 +13,7 @@ Narrowing down was a difficult task as I had many interests to explore. Yet, I m
 - Natural and Sustainable
 - Empowering Creation
 
-[](../images/Acorpio_blow.jpg)
+[](../images/Antonio.jpg)
 
 ### HEALTH
 - Physical
