@@ -9,11 +9,14 @@ This week has been one of the most profound moments until now. It’s in the beg
 I was deeply moved by Mariana, her kindness and joyful excitement about MDEF. For reasons I can’t fully comprehend I was touched by hearing her personal story. Perhaps I connected personally with some of the feelings that she or others may have had to interact with in life. All I say is that I am grateful to be in this moment in life and learn from amazing human beings. I am grateful to be in this journey of self-exploration, creation and evolution.
 
 Narrowing down was a difficult task as I had many interests to explore. Yet, I managed to map three design areas:
+
 - Health
 - Natural and Sustainable
 - Empowering Creation
 
+
 [](../images/Antonio.jpg)
+
 
 ### HEALTH
 - Physical
