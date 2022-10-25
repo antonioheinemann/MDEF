@@ -9,6 +9,8 @@ The diferent roles of prototyping, and examples of how I have used them in the p
 
 
 **Role 1 - Experimental Component**
+
+
 Test of specific hypothesis. Systematic variatons of prototype or context of use.
 
 
@@ -30,7 +32,10 @@ We came to understand that people respected community authorities and that parti
 
 
 
+
 **Role 2 - Means of Inquiry**
+
+
 Open-ended exploration. Instrument to collect, record and measure phenomena.
 
 A new business model:
@@ -59,7 +64,10 @@ Through this project, set up a scenario where we not only tested this busines mo
 
 
 
+
 **Role 3 - Research Archetype**
+
+
 Illustration or demonstration. Physical embodiment of research concept, understanding or design reseach space
 
 
@@ -71,7 +79,10 @@ I packed my bags and travelled off the grid into a carefully selected community 
 
 
 
+
 **Role 4 - Vehicle for Inquiry**
+
+
 Driver for the research director. Research contribution is tied to the process of crafting the artifacts.
 
 Although I have collaborated in the design and crafting of different products or services, I have never really approached this excerecise as a focused artefact for learning. This sparks different ideas to mind, however since I am interested in understanding how people interact with their own health I am conceptualizing a prototyping activity where a small group of individuals are observed while collectively creating a device for health improvement. By witnessing the process of prototyping, documenting it, analyzing it and learning from the process itself I could understand important and interesting aspects of how people interact with their health.
