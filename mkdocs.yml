@@ -33,7 +33,6 @@ extra:
       link: "https://github.com/"
 
 theme:
-  palette:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
