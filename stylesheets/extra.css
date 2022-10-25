@@ -5,9 +5,14 @@
     --md-footer-bg-color--dark: green;
     --md-footer-fg-color--lighter:  rgb(255, 255, 255);
     --md-footer-fg-color--light:  rgb(255, 255, 255);
-    --mdc-typography-headline6-font-family: 'Roboto', sans-serif;
+    --mdc-typography-headline6-font-family: 'Poppins', sans-serif;
     --mdc-typography-font-family: 'Roboto', sans-serif;
     --md-typeset-a-color: rgb(0,0,0);
+    --md-header-bg-color: green;
+    --md-header-fg-color: rgb(255, 255, 255);
+    --md-header-bg-color--dark: green;
+    --md-header-fg-color--lighter:  rgb(255, 255, 255);
+    --md-header-fg-color--light:  rgb(255, 255, 255);
 
 }
 
