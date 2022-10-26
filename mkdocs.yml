@@ -18,6 +18,8 @@ nav:
       - Prototyping: term1/02-Prototyping/
       - Atlas of Weak Signlas: term1/02-AoWS/
       - Ecosystem Mapping: term1/02-Ecosystem Map/
+  - Week 3:
+      - Bio/Agri: term1/03-Bio/
 
 extra:
   social:
@@ -39,7 +41,6 @@ theme:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: black
     accent: green
-    background: black
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
