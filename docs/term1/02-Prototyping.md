@@ -31,6 +31,10 @@ In this case, we outlined systematic variations of means of communication and me
 We came to understand that people respected community authorities and that participating at the monthly meetings were most efficient because it generated word of mouth and a converstaion to move people to our points of sale. Still, complementary communication tools were required to fulfill all expectations.
 
 
+<img src="https://antonioheinemann.github.io/MDEF/images/communications.jpg" width="480" height="640" />
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/communications2.jpg" width="480" height="640" />
 
 
 **Role 2 - Means of Inquiry**
@@ -63,6 +67,8 @@ Through this project, set up a scenario where we not only tested this busines mo
 - How is the brand empowering individuals in rural communities?
 
 
+<img src="https://antonioheinemann.github.io/MDEF/images/rhino.jpg" width="480" height="640" />
+
 
 
 **Role 3 - Research Archetype**
@@ -76,6 +82,9 @@ Diving into the deep:
 In order to understand better how to improve our product offering, we understood that simply talking to users was not enough. Even ethnographic observation had its limits and could not provide answers to critical questions. With this context in mind, I designed an experiment to understand how our users actually lived and through this, how our product interacted inside their lives.
 
 I packed my bags and travelled off the grid into a carefully selected community in Alta Verapaz, Guatemala. There, I rented a small wooden shack from a shopkeeper where I stayed for three weeks to embody the purest user experience. I used the solar system every day, and lived through the same pain points that our users faced every day and night. Not only in technical specifications but also in feelings, routines, habits, relationships, dynamics and insights that can only be experienced. Both product and service aspects were refined following the insights from this research activity and user activity was improved.
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/living.jpg" width="480" height="640" />
 
 
 
