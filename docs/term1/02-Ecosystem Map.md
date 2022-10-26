@@ -7,17 +7,19 @@ hide:
 
 **In my reach:**
 MDEF
+
 - IAAC + Elisava
-	- Staff
-	- Alumni
-	- Peers
-	- Facilities + tools
-	- Network
-	- Fablab
-	- Valldaura
+  - Staff
+  - Alumni
+  - Peers
+  - Facilities + tools
+  - Network
+  - Fablab
+  - Valldaura
 
 
 Poble Nou
+
 - Poblenou Urban District
 - Apocapoc
 - Hangar
@@ -26,6 +28,7 @@ Poble Nou
 
 
 Barcelona
+
 - Barcelona Health Hub
 - Institut de Salut Holistica
 - Clay Studio
@@ -33,6 +36,7 @@ Barcelona
 
 
 Guatemala
+
 - Servir
 	- Research
 	- Design
@@ -44,6 +48,7 @@ Guatemala
 
 
 Materials:
+
 - Recycled plastic pellets
 - 3D printing Materials
 - Paper
