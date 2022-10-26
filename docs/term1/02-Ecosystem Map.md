@@ -6,6 +6,8 @@ hide:
 ## Mapping my Ecosystem
 
 **In my reach:**
+
+
 MDEF
 
 - IAAC + Elisava
@@ -63,6 +65,8 @@ Materials:
 
 
 **What is interesting?**
+
+
 - Crafting
 - Digital Fabrication
 - Expanding creativity
@@ -84,6 +88,8 @@ Materials:
 
 
 **What is missing?**
+
+
 - Knowledge and skills (Coding, Technology, Digital Fabrication, Design Process, among others)
 - Project definition and focus
 - Glass jars, mold, and other cooking utensils
