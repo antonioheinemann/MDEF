@@ -34,7 +34,7 @@ We came to understand that people respected community authorities and that parti
 <img src="https://antonioheinemann.github.io/MDEF/images/communications.jpg" width="480" height="640" />
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/communications2.jpg" width="480" height="640" />
+<img src="https://antonioheinemann.github.io/MDEF/images/communications2.JPG" width="480" height="640" />
 
 
 **Role 2 - Means of Inquiry**
@@ -67,8 +67,7 @@ Through this project, set up a scenario where we not only tested this busines mo
 - How is the brand empowering individuals in rural communities?
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/rhino.jpg" width="480" height="640" />
-
+<img src="https://antonioheinemann.github.io/MDEF/images/rhino.JPG" width="480" height="640" />
 
 
 **Role 3 - Research Archetype**
@@ -84,7 +83,7 @@ In order to understand better how to improve our product offering, we understood
 I packed my bags and travelled off the grid into a carefully selected community in Alta Verapaz, Guatemala. There, I rented a small wooden shack from a shopkeeper where I stayed for three weeks to embody the purest user experience. I used the solar system every day, and lived through the same pain points that our users faced every day and night. Not only in technical specifications but also in feelings, routines, habits, relationships, dynamics and insights that can only be experienced. Both product and service aspects were refined following the insights from this research activity and user activity was improved.
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/living.jpg" width="480" height="640" />
+<img src="https://antonioheinemann.github.io/MDEF/images/living.JPG" width="480" height="640" />
 
 
 
