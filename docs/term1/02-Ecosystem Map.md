@@ -43,6 +43,18 @@ Guatemala
 	- People and connections
 
 
+Materials:
+- Recycled plastic pellets
+- 3D printing Materials
+- Paper
+- Clay
+- Mushrooms
+- Yeast
+- Local waste
+- Blood
+- Pee and other human waste
+- Plants
+
 
 
 **What is interesting?**
