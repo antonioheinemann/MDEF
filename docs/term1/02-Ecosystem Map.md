@@ -6,21 +6,19 @@ hide:
 ## Mapping my Ecosystem
 
 **In my reach:**
+
+
 | MDEF      | Poblenou | Barcelona | World |
 | ----------- | ----------- | ----------- | ----------- |
-| IAAC + Elisava      | Poblenou Urban District | Title | Title |
-| Staff      | Apocapoc | Title | Title |
-| Alumni   |  Hangar | Title | Title |
-| Peers   |  Colectivo Bajel | Title | Title |
-| Facilities + tools   |  Casa Taos | Title | Title |
-| Network   |  PMMT | Title | Title |
+| IAAC + Elisava      | Poblenou Urban District | Barcelona Health Hub | Title |
+| Staff      | Apocapoc | Institut de Salut Holistica | Title |
+| Alumni   |  Hangar | Institut de Salut Holistica | Title |
+| Peers   |  Colectivo Bajel | Centro Harmonious Life | Title |
+| Facilities + tools   |  Casa Taos | Clay Studio | Title |
+| Network   |  PMMT | Natural Wine Club | Title |
 | Fablab   |  Title | Title | Title |
 | Valldaura   |  Title | Title | Title |
-|    |  Title | Title | Title |
-|    |  Title | Title | Title |
-|    |  Title | Title | Title |
-|    |  Title | Title | Title |
-|    |  Title | Title | Title |
+
 
 MDEF
 
