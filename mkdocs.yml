@@ -45,6 +45,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Poppins
     code: Cutive Mono
+    color: white
 
   logo: images/favicon.svg
   favicon: images/favicon.svg
