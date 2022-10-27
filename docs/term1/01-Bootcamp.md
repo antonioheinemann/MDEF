@@ -6,12 +6,14 @@ hide:
 
 ## Bootcamp
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="292" height="413" />
-
 
 This week was our first formal week of the program. We got to know ourselves, our classmates and our surroundings all better as we begin to understand the context upon which we will be creating. The excitement is high. I really enjoyed going to different places around Poble Nou to get to know spaces, people and ideas which we will be interacting with. The way MDEf allows students to participate inside this wide ecosystem and inspire us make our ideas a reality is empowering.
 
 I am beginning to grasp the power of being a designer and the impact I can have for a healthier, more sustainable and conscious future.
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="292" height="413"  align="center"/>
+
 
 ## My vision:
 I dream that everyone, disregarding economic status, can enjoy basic health and education services.
