@@ -3,7 +3,7 @@ hide:
     - toc
     - <h1>
 ---
-
+#
 ## Bootcamp
 
 
@@ -13,6 +13,8 @@ I am beginning to grasp the power of being a designer and the impact I can have 
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="292" height="413"  align="right"/>
+
+
 
 
 ## My vision:

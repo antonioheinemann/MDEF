@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-
+#
 ## Atlas of Weak Signals
 
 This week has been one of the most profound moments until now. It’s in the beginning where identity, purpose and vision are aligned and pushed forwards. This journey of introspection and ideation requires courage and creativity. The AoWS deck was a useful instrument to put into words concepts that are often complex and hard to express. When encountering a word I did not know, the images on the cards opened a space for imagination and interpretation. Moreover, it was surprisingly interesting how easy it was to use the cards to have deep conversations about topics that move something inside us. Creating a design space after this synthesized the entire knowledge acquired across the week; it was a surreal life exercise.
