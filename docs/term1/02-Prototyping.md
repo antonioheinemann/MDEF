@@ -3,6 +3,7 @@ hide:
     - toc
 ---
 
+#
 ## Prototyping
 
 The diferent roles of prototyping, and examples of how I have used them in the past or how I intend to use them in the future.
