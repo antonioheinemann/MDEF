@@ -16,7 +16,7 @@ hide:
 | Peers   |  Colectivo Bajel | Centro Harmonious Life | Casca, composting |
 | Facilities + tools   |  Casa Taos | Clay Studio | Infrastructure |
 | Network   |  PMMT | Natural Wine Club | Network |
-| Fablab   |  | Title | Peers and directors |
+| Fablab   |  |  | Peers and directors |
 | Valldaura   |  |  |  |
 
 
@@ -36,39 +36,37 @@ hide:
 
 
 
-**What is interesting?**
+| **What is interesting?**      |
+| ----------- |
+| Crafting   |
+| Digital Fabrication   |
+| Expanding creativity   |
+| Design process   |
+| Coding   |
+| Circular Economy   |
+| Health   |
+| Empowering Creation   |
+| Sustainability   |
+| Fungi growth   |
+| Bread baking   |
+| Fermentation   |
+| Coffee   |
+| Food and ingestion   |
+| Redesigning Habits   |
+| Regenerative practices   |
 
 
-- Crafting
-- Digital Fabrication
-- Expanding creativity
-- Design process
-- Coding
-- Circular Economy
-- Health
-- Empowering Creation
-- Sustainability
-- Fungi growth
-- Bread baking
-- Fermentation
-- Coffee
-- Food and ingestion
-- Redesigning Habits
-- Regenerative practices
 
 
-
-
-**What is missing?**
-
-
-- Knowledge and skills (Coding, Technology, Digital Fabrication, Design Process, among others)
-- Project definition and focus
-- Glass jars, mold, and other cooking utensils
-- Local plants
-- Books
-- Sensors
-- Camera
-- Seeds
-- Dirt
-- Gardening tools
+| **What is missing?**      |
+| ----------- |
+| Knowledge and skills (Coding, Technology, Digital Fabrication, Design Process, among others)   |
+| Project definition and focus   |
+| Glass jars, mold, and other cooking utensils   |
+| Local plants   |
+| Books   |
+| Sensors   |
+| Camera   |
+| Seeds   |
+| Dirt   |
+| Gardening tools   |
