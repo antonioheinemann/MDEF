@@ -12,7 +12,7 @@ This week was our first formal week of the program. We got to know ourselves, ou
 I am beginning to grasp the power of being a designer and the impact I can have for a healthier, more sustainable and conscious future.
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="292" height="413"  align="center"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="292" height="413"  align="right"/>
 
 
 ## My vision:
