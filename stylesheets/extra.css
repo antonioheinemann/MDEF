@@ -1,6 +1,5 @@
 :root>* {
 
-    --md-tyepset-bg-color: black;
     --md-footer-bg-color: green;
     --md-footer-fg-color: rgb(255, 255, 255);
     --md-footer-bg-color--dark: green;
@@ -13,6 +12,9 @@
 
 }
 
+.md-main{
+  background-color: rgb(0,0,0);
+  }
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
