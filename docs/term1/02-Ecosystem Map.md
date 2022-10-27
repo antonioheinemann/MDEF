@@ -10,69 +10,28 @@ hide:
 
 | MDEF      | Poblenou | Barcelona | World |
 | ----------- | ----------- | ----------- | ----------- |
-| IAAC + Elisava      | Poblenou Urban District | Barcelona Health Hub | Title |
-| Staff      | Apocapoc | Institut de Salut Holistica | Title |
-| Alumni   |  Hangar | Institut de Salut Holistica | Title |
-| Peers   |  Colectivo Bajel | Centro Harmonious Life | Title |
-| Facilities + tools   |  Casa Taos | Clay Studio | Title |
-| Network   |  PMMT | Natural Wine Club | Title |
-| Fablab   |  Title | Title | Title |
-| Valldaura   |  Title | Title | Title |
+| IAAC + Elisava      | Poblenou Urban District | Barcelona Health Hub | Servir Innovation Studio |
+| Staff      | Apocapoc | Institut de Salut Holistica | Reserach team GUA |
+| Alumni   |  Hangar | Institut de Salut Holistica | Cendis, Pharma |
+| Peers   |  Colectivo Bajel | Centro Harmonious Life | Casca, composting |
+| Facilities + tools   |  Casa Taos | Clay Studio | Infrastructure |
+| Network   |  PMMT | Natural Wine Club | Network |
+| Fablab   |  | Title | Peers and directors |
+| Valldaura   |  |  |  |
 
 
-MDEF
-
-- IAAC + Elisava
-  - Staff
-  - Alumni
-  - Peers
-  - Facilities + tools
-  - Network
-  - Fablab
-  - Valldaura
 
 
-Poble Nou
-
-- Poblenou Urban District
-- Apocapoc
-- Hangar
-- Colectivo Bajel
-- Casa Taos
-
-
-Barcelona
-
-- Barcelona Health Hub
-- Institut de Salut Holistica
-- Clay Studio
-- Natural Wine Club
-
-
-Guatemala
-
-- Servir
-	- Research
-	- Design
-- Cendis
-	- Infrastructure
-	- Network
-- Network
-	- People and connections
-
-
-Materials:
-
-- Recycled plastic pellets
-- 3D printing Materials
-- Paper
-- Clay
-- Mushrooms
-- Yeast
-- Local waste
-- Blood
-- Pee and other human waste
-- Plants
+| **Materials**      |
+| ----------- |
+| Recycled plastic pellets   |
+| 3D printing Materials   |
+| Clay   |
+| Mushrooms   |
+| Local waste   |
+| Blood   |
+| Pee and other human waste   |
+| Plants   |
 
 
 
