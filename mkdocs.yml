@@ -43,7 +43,7 @@ theme:
     accent: green
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: Poppins
     code: Cutive Mono
 
   logo: images/favicon.svg
