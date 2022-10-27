@@ -1,7 +1,7 @@
 ---
 hide:
     - toc
-    - <h1>02 Prototyping</h1>
+    - <h1>
 ---
 
 ## Bootcamp
