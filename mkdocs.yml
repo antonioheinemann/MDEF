@@ -46,7 +46,7 @@ theme:
     text: Be Vietnam
     code: Cutive Mono
   icon:
-    logo: images/favicon.svg
+    logo: material/memory
   favicon: images/favicon.svg
   features:
     - instant
