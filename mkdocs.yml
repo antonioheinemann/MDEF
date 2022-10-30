@@ -46,6 +46,7 @@ theme:
     text: Poppins
     code: Cutive Mono
     color: white
+    body: white
 
   logo: images/favicon.svg
   favicon: images/favicon.svg
