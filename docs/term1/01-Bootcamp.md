@@ -6,6 +6,7 @@ hide:
 #
 ## Bootcamp
 
+<font color="white">
 
 This week was our first formal week of the program. We got to know ourselves, our classmates and our surroundings all better as we begin to understand the context upon which we will be creating. The excitement is high. I really enjoyed going to different places around Poble Nou to get to know spaces, people and ideas which we will be interacting with. The way MDEf allows students to participate inside this wide ecosystem and inspire us make our ideas a reality is empowering.
 
@@ -35,3 +36,4 @@ I dream that the youth in the BoP will change the world by becoming a powerhouse
 I dream that people will live with consciousness, aware of the beauty of life and the importance of making the best of this great gift.
 
 I dream that humans contaminate less than they restore.
+</font>
