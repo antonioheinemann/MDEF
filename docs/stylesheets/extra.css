@@ -9,12 +9,6 @@
     --mdc-typography-font-family: 'Roboto', sans-serif;
     --md-typeset-a-color: rgb(255,255,255);
 
-{
-  h1 {
-  color: red;
-}
-}
-
 }
 
 .md-main{
