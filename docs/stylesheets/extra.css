@@ -1,6 +1,6 @@
 :root>* {
 
-    --md-primary-fg-color: rgb(255,255,255);
+    --md-typeset-p-color: rgb(255,255,255);
     --md-footer-bg-color: green;
     --md-footer-fg-color: rgb(255, 255, 255);
     --md-footer-bg-color--dark: green;
