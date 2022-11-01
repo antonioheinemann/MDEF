@@ -44,7 +44,7 @@ theme:
     accent: green
   font:
     # See available fonts at https://fonts.google.com/
-    text: Poppins
+    text: Roboto Mono
     code: Cutive Mono
     color: white
     body: white
