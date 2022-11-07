@@ -8,7 +8,7 @@
     --mdc-typography-headline6-font-family: 'Roboto Mono', sans-serif;
     --mdc-typography-font-family: 'Roboto', sans-serif;
     --md-typeset-a-color: rgb(255,255,255);
-    --md-primary-bg-color: rgb(0,0,100);
+    --md-default-bg-color: rgb(0,0,100);
     --md-typeset-color: rgb(255,255,255);
 
   }
