@@ -6,7 +6,7 @@ hide:
 ## Living With Your Own Ideas
 
 
-[![Perfect Health](https://youtu.be/2No1AGCUVHg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2No1AGCUVHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **What did you make? Why did it matter?**
