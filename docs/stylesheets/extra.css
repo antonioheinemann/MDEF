@@ -2,13 +2,10 @@
 
     --md-footer-bg-color: white;
     --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
-    --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Roboto Mono', sans-serif;
     --mdc-typography-font-family: 'Roboto', sans-serif;
     --md-typeset-a-color: rgb(0,128,0);
-    --md-default-bg-color: rgb(4,16,20);
+    --md-default-bg-color: rgb(0,0,255);
     --md-typeset-color: rgb(255,255,255);
     --md-accent-fg-color: rgb(0,128,0);
 
