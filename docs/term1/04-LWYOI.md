@@ -6,7 +6,7 @@ hide:
 ## Living With Your Own Ideas
 
 
-[![Perfect Health](https://antonioheinemann.github.io/MDEF/images/MT01/IMG_4636.jpg)](https://youtu.be/2No1AGCUVHg)
+[![Perfect Health](https://youtu.be/2No1AGCUVHg)
 
 
 **What did you make? Why did it matter?**
