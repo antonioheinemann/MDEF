@@ -1,6 +1,6 @@
 :root>* {
 
-    --md-footer-bg-color: rgb(32, 32, 32);
+    --md-footer-bg-color: rgb(6,6,6);
     --md-footer-fg-color: rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Roboto Mono', sans-serif;
     --mdc-typography-font-family: 'Roboto', sans-serif;
