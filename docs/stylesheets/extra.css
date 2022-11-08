@@ -7,13 +7,13 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Roboto Mono', sans-serif;
     --mdc-typography-font-family: 'Roboto', sans-serif;
-    --md-typeset-a-color: rgb(0,255,255);
+    --md-typeset-a-color: rgb(0,128,0);
     --md-primary-fg-color: rgb(0,0,0);
     --md-primary-bg-color: rgb(255,255,255);
     --md-default-fg-color: rgb(255,255,255);
-    --md-default-bg-color: rgb(0,0,0);
+    --md-default-bg-color: rgb(4,16,20);
     --md-typeset-color: rgb(255,255,255);
-    --md-accent-fg-color: rgb(0,0,255);
+    --md-accent-fg-color: rgb(0,128,0);
 
   }
 
