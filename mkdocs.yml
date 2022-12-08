@@ -11,16 +11,16 @@ repo_url: 'https://github.com/antonioheinemann/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Week 1:
+  - Master Project:
+  - Reflections:
+    - Term I:
+      - Desgin Studio:
       - Bootcamp: term1/01-Bootcamp/
       - Vision and Identity: term1/01-Vision/
-  - Week 2:
       - Prototyping: term1/02-Prototyping/
       - Atlas of Weak Signlas: term1/02-AoWS/
       - Ecosystem Mapping: term1/02-Ecosystem Map/
-  - Week 3:
       - Bio/Agri: term1/03-Bio/
-  - Week 4:
       - Living With Your Own Ideas: term1/04-LWYOI/
 
 extra:

@@ -18,40 +18,64 @@ Functional health considers diet and exercise as the keys to disease prevention 
 
 Diabetes affects the body by affecting the production and the resistance of insulin, which plays a vital role in health and wellbeing. Mainly, this hormone allows glucose (sugar in the blood ) to enter our fat, muscles and liver allowing us to produce and store energy. When our insulin becomes affected we need to help the body regulate the levels of sugar in the blood and we can do this through a balanced diet and exercise. When this combination is not enough, sometimes it can be necessary to aid our body with additional insulin so that we can continue to live functional and happy lives. High blood pressure can often come hand in hand with diabetes, and is something to monitor regardless of health status.
 
+
 Rules of engagement:
+
+
 1.	Diet
-  a.	Greens
-  b.	Low-carb
-  c.	Balanced
-  d.	No sugar
-  e.	No carbs
-  f.	No coffee
+
+  -	Greens
+  - Low-carb
+  - Balanced
+  - No sugar
+  - No carbs
+  - No coffee
+
 
 2.	Exercise
-  a.	1 hour per day
+
+  - 1 hour per day
+
 
 3.	Regenerative habits
-  a.	Mindful breathing or meditating
-  b.	No smoking or drinking
+
+  - Mindful breathing or meditating
+  - No smoking or drinking
+
 
 4.	Measuring
-  a.	Myrto CGM Alerts (Prototyped version of a Dexcom glucose monitor + whatsapp alerts from a friend)
-      A.	Act upon alert to increase or decrease
-  b.	Instant glucose measurement
-      A.	when waking up
-      B.	before meals
-      C.	before going to bed
-  c.	Blood pressure measurement
-      A.	when waking up
-      B.	during the day
-      C.	before going to bed
+
+  - Myrto CGM Alerts (Prototyped version of a Dexcom glucose monitor + whatsapp alerts from a friend). Act upon alert to regulate blood sugar levels by eating or exercising.
+
+  - Instant glucose measurement
+      - when waking up
+      - before meals
+      - before going to bed
+
+  - Blood pressure measurement
+      - when waking up
+      - during the day
+      - before going to bed
 
 5.	Perceiving and decoding stimuli
-  a.	Feelings or sensations
-  b.	Emotions
-  c.	Triggers
-  d.	Habits
-  e.	Thoughts
+
+  - Feelings or sensations
+  - Emotions
+  - Triggers
+  - Habits
+  - Thoughts
+
+
+  It was an incredible experience, which I came to appreciate and enjoy with gratitude and awareness. I honestly believe that more awareness on health and chronic diseas is needed, and that more people should be aware of the different needs of diabetic patients. Living with a strict diet can be demanding and difficult, especially when living inside such a toxic system that's fundamented on sugar, highly processed foods, harmful fats and chemicals; a system that is not natural. During this experience, most of the shops or restaurants that I normally interacted with were not accessible and I had to seek alternatives (often spending or walking more). The same happened at a social level when I decided not to join some friends for a drink, or for anything at all. I find it critical to redesign our systems to become more natural and healthy for humans and the planet. To enjoy leisure, food and drink, work, or day to day living in a regenerative style that improves our wellbeing. Society ought to be more careful to not disregard the danger of normalizing a toxic system that harms our bodies and minds.
+
+  I am not a fanatic of embedding technology into our bodies; I'd much rather have nothing attached at all! Still, if this would allow me to live and feel better, I'm all in. I find the concept of CGMs and Insulin Pumps fascinating, as they automate tasks and make life easier. Although I could not gain value from my prototyped CGM, having something attached to my body for more than 24 hours was really an experience. It is uncomfortable. It itches and sometimes really hurts. Taking it off was really painful as well, and some of the sealing glue remained unremovable. Although this was just a prototype, I can imagine what it means to live with technology embedded and insist that there is tremendous opportunity to improve wellbeing and help patients to live more comfortable with technology.
+
+  This last remar also plays with the concept of a spectrum between peace and anxiety when measuring to understand. Sometimes, measuring can become an act of relief but other times it can become an act of control. During the exercise, I came to experience the fear of truly accepting an unwanted measurement. It's a rollercoaster of emotions and can surely affect anxiety levels.
+
+  All in all, I found a direct relationship between physical health, mental health and the conext we live in. The things we eat, the places we go, the habits we live with and how we react to our enviroment shapes our wellbeing. Our current sysytems are unsustainable in all dimensions and represnt a ticking bomb towars more global chaos. It is critical to design safer and regenerative spaces, activities, relationships and environments for us to thrive in and coexist.
+
+
+
 
 
 
