@@ -11,7 +11,7 @@ repo_url: 'https://github.com/antonioheinemann/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master Project:
+  - Master Project: about/me.md
   - Reflections:
     - Term I:
       - Bootcamp: term1/01-Bootcamp/
