@@ -11,16 +11,17 @@ repo_url: 'https://github.com/antonioheinemann/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master Project: about/me.md
+  - Master Project: MasterProject/01-Seeds and Concepts.md
   - Reflections:
     - Term I:
-      - Bootcamp: term1/01-Bootcamp/
-      - Vision and Identity: term1/01-Vision/
+      - Vision and Identity: term1/01-VisionAndIdentity.md
       - Prototyping: term1/02-Prototyping/
       - Atlas of Weak Signlas: term1/02-AoWS/
-      - Ecosystem Mapping: term1/02-Ecosystem Map/
-      - Bio/Agri: term1/03-Bio/
-      - Living With Your Own Ideas: term1/04-LWYOI/
+      - BioAgriZero: term1/03-BioAgriZero/
+      - Living With Your Own Ideas: term1/04-LivingWithYourIdeas/
+      - Tech Beyond the Myth: term1/05-TechBeyondMyth/
+      - Community Engagement: term1/06-CommunityEngagement/
+      - Extended Intelligences: term1/07-ExtendedIntelligences/
 
 extra:
   social:

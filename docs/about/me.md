@@ -5,6 +5,8 @@
 *Guatemala*
 
 
-Purpose driven, sensible, powerful and courageous. I am a dreamer, a thinker, and a leader with immense desire to enable, to transform and to improve. To empower the collective and co-create a better world. I am a fan of beautiful, simple and functional design. I admire authenticity and humbleness. I respect people that walk their talk and live by love. My entire life has been a journey of understanding, expressing, and enjoying. Across this journey, I came to recognize that my purpose is centered around creation. Whether in art, in life, or in business, I feel a deep urge to participate in creative processes that generate value or beauty. Especially, projects of social impact and those that foster the wellbeing and enjoyment of humans.
+ I am a dreamer with an immense desire to enable, to transform and to improve. Others, the planet and myself. I wish to empower the collective and co-create a better world ~ one filled with mindfulness, presence, love and health for individuals and for other non-human species and ecosystems of earth. I admire authenticity and humbleness. My entire life has been a journey of understanding, expressing, and gratefully participating in creative processes that generate value or beauty. Especially, projects of social impact and those that foster the wellbeing and enjoyment of humans.
 
-<img src="https://antonioheinemann.github.io/MDEF/images/perfil.jpg" width="350" height="350" align="right"/>
+ I am now on a quest to create this envisioned future, and to evolve my understanding and potential to transform the world.
+
+<img src="https://antonioheinemann.github.io/MDEF/images/perfil.jpg" width="250" height="250" align="right"/>
