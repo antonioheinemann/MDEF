@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://antonioheinemann.github.io/MDEF/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://antonioheinemann.github.io/MDEF/MasterProject/01-Seeds%20and%20Concepts/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://antonioheinemann.github.io/MDEF/about/me/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://antonioheinemann.github.io/MDEF/project/project/</loc>
-         <lastmod>2022-12-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://antonioheinemann.github.io/MDEF/term1/01-Bootcamp/</loc>
-         <lastmod>2022-12-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://antonioheinemann.github.io/MDEF/term1/01-Vision/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <loc>https://antonioheinemann.github.io/MDEF/term1/01-VisionAndIdentity/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://antonioheinemann.github.io/MDEF/term1/02-AoWS/</loc>
-         <lastmod>2022-12-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://antonioheinemann.github.io/MDEF/term1/02-Ecosystem%20Map/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://antonioheinemann.github.io/MDEF/term1/02-Prototyping/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://antonioheinemann.github.io/MDEF/term1/03-Bio/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <loc>https://antonioheinemann.github.io/MDEF/term1/03-BioAgriZero/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://antonioheinemann.github.io/MDEF/term1/04-LWYOI/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <loc>https://antonioheinemann.github.io/MDEF/term1/04-LivingWithYourIdeas/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://antonioheinemann.github.io/MDEF/term1/05-TechBeyondMyth/</loc>
-         <lastmod>2022-12-13</lastmod>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://antonioheinemann.github.io/MDEF/term1/06-CommunityEngagement/</loc>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://antonioheinemann.github.io/MDEF/term1/07-ExtendedIntelligences/</loc>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://antonioheinemann.github.io/MDEF/term2/project/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
