@@ -8,11 +8,13 @@ hide:
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" align="left"/>
 
-Education
+**Education**
 
-Health
+**Health**
 
-Inclusion
+**Inclusion**
+
+
 
 
 ## My vision:
@@ -35,5 +37,7 @@ I dream that people will live with consciousness, aware of the beauty of life an
 I dream that humans contaminate less than they restore.
 
 
+
+
 ## My Design Space:
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://miro.com/app/live-embed/uXjVPOje4e4=/?moveToViewport=-3758,-1142,6232,3330&embedId=625179432" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://miro.com/app/live-embed/uXjVPOje4e4=/?moveToViewport=-3758,-1142,6232,3330&embedId=625179432"></iframe>
