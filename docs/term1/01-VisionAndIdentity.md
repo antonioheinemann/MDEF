@@ -29,30 +29,6 @@ I am excited to become the person I need to be in order to shape the future I en
 
 ![](../images/MT01/classmap.jpg)
 
-## My vision:
-I dream that everyone, disregarding economic status, can enjoy basic health and education services.
-
-I dream of a world where health is safe, reliable, and convenient for all disregarding location or economic status.
-
-I dream that the Base of the Pyramid (BoP) has the tools, knowledge and capabilities to sustainabily co-create a new future filled with opportunities and dreams made true.
-
-I dream that future generations are educated in how to eat, exercise and live a healthy life.
-
-I dream that future generations will live by sustainable practices, honor and respect the planet and all inside it.
-
-I dream of an integrated digital global community.
-
-I dream that the youth in the BoP will change the world by becoming a powerhouse of value generation.
-
-I dream that people will live with consciousness, aware of the beauty of life and the importance of making the best of this great gift.
-
-I dream that humans contaminate less than they restore.
-</font>
-
-
-
-
-
 #
 ## Mapping my Ecosystem
 

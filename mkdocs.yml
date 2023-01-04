@@ -14,8 +14,11 @@ nav:
   - Master Project: MasterProject/01-Seeds and Concepts.md
   - Reflections:
     - Term I:
-      - Vision and Identity: term1/01-VisionAndIdentity.md
-      - Prototyping: term1/02-Prototyping/
+      - Design Studio:
+        - Bootcamp: term1/00-Design Studio.md
+        - Vision and Identity: term1/01-VisionAndIdentity.md
+        - Roles of Prototyping: term1/02-Prototyping/
+        - Design Dialogues: term1/08-Design-Dialgoues/
       - Atlas of Weak Signlas: term1/02-AoWS/
       - BioAgriZero: term1/03-BioAgriZero/
       - Living With Your Own Ideas: term1/04-LivingWithYourIdeas/
