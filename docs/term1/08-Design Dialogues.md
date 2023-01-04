@@ -29,3 +29,5 @@ Naturally, mental health is a key aspect in this conversation. Awareness, presen
 <img src="https://antonioheinemann.github.io/MDEF/images/regenbehavior.pdf" align="left"/>
 
 Although this definition may be broad or vague, it is a starting point to define the type of behavior that I believe will be critical to create a healthy future. One where humanity ingests real food and convenience has been redefined to foster health of both humanity, other living species and of the planet. A future filled with opportunities to produce in a sustainable and regenerative fashion, where trauma has been healed and decisions are based on love, awareness and gratitude. One where humanity feels safe and rewires its nervous system to sustain social engagement, calmness, curiosity, openness, compassion and presence. If we are well, then we can create wellness and develop with a system that regenerates, heals, improves and enables.
+
+My fight still contemplates health as a primary focus, yet expands its definition from purely medical to a more holistic and integral definition. Education and inclusion will prove to be critical aspects for this future scenario.
