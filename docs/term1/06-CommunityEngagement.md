@@ -13,7 +13,7 @@ Wat at.asdfasdf...
 
 
 **Acting**
-asdasfdfasd
+asd
 
 
 The Community Engagement Seminar will be evaluated based on:
