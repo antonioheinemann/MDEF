@@ -14,8 +14,6 @@ Our team chose to tear down a broken all-in-one (combination fax, printer, scann
 <img src="https://antonioheinemann.github.io/MDEF/images/printerok.jpg" width="500" />
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/startd.HEIC" width="500" />
-
 <img src="https://antonioheinemann.github.io/MDEF/images/Whats-App-Image-2022-11-09-at-1-40-11-PM.jpg" width="500" />
 
 We got together and began to understand how the device worked through reverse engineering of its models, components, and systems. As we disassembled, we learned and explored first hand the content on electronics and hardware and could actually visualize how things interacted with each other. We had to understand each of the pieces and how their functions complement each other in the execution of printing, scanning, or fax. Moreover, we explored possibilities as to why the device stopped working or where things could have gone wrong. Perhaps the most interesting aspect was the conversation around the true intentions behind the design of the printer. That is, which parts were easier or difficult to dissasemble (is there something to hide?), or what insights around unusual behavior can unfold?
@@ -27,10 +25,12 @@ We got together and began to understand how the device worked through reverse en
 https://hackmd.io/@8sCwEDXZRLu279SP363xRQ/SkVrxUbHj
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/inksys.jpg" width="500" />
+<img src="https://antonioheinemann.github.io/MDEF/images/inksys.png" width="500" />
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/pump.jpg" width="500" />
+
+
 _Ink pump ~ how much are you really pumping?_
 
 Next in line was creating a new device from the useful pieces that remained after disassembling the printer. We identified components or working systems that could be valuable, and then brainstormed a number of possibilities for our creation.
@@ -61,8 +61,6 @@ Although the number of components we could use was surprisingly high, we quickly
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/closingdoor.gif" />
-
-<iframe width="560" height="315" src="https://youtube.com/shorts/6j9kxTajb0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1F_JKIxENr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
