@@ -60,6 +60,8 @@ Although the number of components we could use was surprisingly high, we quickly
 <img src="https://antonioheinemann.github.io/MDEF/images/door.jpg" width="500" />
 
 
+<img src="https://antonioheinemann.github.io/MDEF/images/closingdoor.gif" />
+
 <iframe width="560" height="315" src="https://youtube.com/shorts/6j9kxTajb0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
