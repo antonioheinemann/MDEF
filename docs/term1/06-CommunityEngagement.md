@@ -5,15 +5,25 @@ hide:
 #
 ## Community Engagement
 
-asdfasdfas
+We need to evolve (transcend and
+include) new ways of designing for
+being able tackle (dance) with the
+kind of challenges reality is forcing
+upon.
+
+How can we position ourselves as
+designers and design in the midst
+of such complex problems?
+
+mapping becomes a
+critical skill and
+method for collective sense-making
+
 
 
 **Mapping**
-Wat at.asdfasdf...
+<img src="https://antonioheinemann.github.io/MDEF/images/MT01/obesity.png" width="500" />
 
-
-**Acting**
-asd
 
 
 The Community Engagement Seminar will be evaluated based on:
