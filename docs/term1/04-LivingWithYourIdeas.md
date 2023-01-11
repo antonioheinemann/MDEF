@@ -45,6 +45,7 @@ Rules of engagement:
   - Habits
   - Thoughts
 
+<img src="https://antonioheinemann.github.io/MDEF/images/MT01/diab.jpg" width="500" />
 
 It was an incredible experience, which I came to appreciate and enjoy with gratitude and awareness. I honestly believe that more awareness on health and chronic diseas is needed, and that more people should be aware of the different needs of diabetic patients. Living with a strict diet can be demanding and difficult, especially when living inside such a toxic system that's nurtured by sugar, highly processed foods, harmful fats and chemicals; a system that is not natural. During this experience, most of the shops or restaurants that I normally interacted with were not accessible and I had to seek alternatives (often spending or walking more). The same happened at a social level when I decided not to join some friends for a drink, or for anything at all. I find it critical to redesign our systems to become more natural and healthy for humans and the planet. To enjoy leisure, food and drink, work, or day to day living in a regenerative style that improves our wellbeing. Society ought to be more careful to not disregard the danger of normalizing a toxic system that harms our bodies and minds.
 
