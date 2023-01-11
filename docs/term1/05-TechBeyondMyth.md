@@ -57,7 +57,7 @@ Although the number of components we could use was surprisingly high, we quickly
 <img src="https://antonioheinemann.github.io/MDEF/images/MT01/aum5.jpg" width="500" />
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/door.jpg" width="500" />
+<img src="https://antonioheinemann.github.io/MDEF/images/door.png" width="500" />
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/closingdoor.gif" />
