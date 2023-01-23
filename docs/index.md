@@ -1,3 +1,1 @@
-## Welcome
-
-Join me on an exploration to understand **regenerative futures** and what it means to design for health, mindfulness and collectivism. To restore and to revitalize natural system and environments through multi-scalar perspectives that influence transformation.
+### Join me on an exploration to understand **regenerative futures** and what it means to design for health, mindfulness and collectivism. To restore and to revitalize natural system and environments through multi-scalar perspectives that influence transformation.
