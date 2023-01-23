@@ -25,6 +25,13 @@ nav:
       - Tech Beyond the Myth: term1/05-TechBeyondMyth/
       - Community Engagement: term1/06-CommunityEngagement/
       - Extended Intelligences: term1/07-ExtendedIntelligences/
+    - Term II:
+      - Design Studio:
+          - Design Journey: term2/00-DesignJourney.md
+      - The Next Billion Seconds: term2/01-TheNextBillionSeconds.md
+      - Making Sense: term2/02-MakingSense.md
+      - Remixing Materials: term2/02RemixingMaterials.md
+
 
 extra:
   social:
