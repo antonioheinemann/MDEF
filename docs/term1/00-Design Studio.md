@@ -6,7 +6,7 @@ hide:
 #
 ## My Fight
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="350"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT01/fight.jpg" width="200"/>
 
 **Education**
 
