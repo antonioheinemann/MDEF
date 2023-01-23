@@ -10,6 +10,9 @@ We need to evolve (transcend and include) new ways of designing for being able t
 How can we position ourselves as designers and design in the midst of such complex problems?
 
 
+
+
+
 ### **Mapping**
 
 
@@ -19,6 +22,13 @@ How can we position ourselves as designers and design in the midst of such compl
 In order to approach complex problems with a holistic perspective and to position ourselves effectively in the midst of these issues, it is important to consider all stakeholders and influences that affect the problem in focus. One effective tool for this is mapping, which allows us to visually organize and understand the different components and relationships within a problem. By mapping out the various influences, stimulus and factors involved, we can gain a better understanding of the problem and identify potential areas for intervention.
 
 Mapping also becomes a valuable tool for collective sense-making, as it allows for open and inclusive participation from all stakeholders. By inviting diverse perspectives and voices to contribute to the map, we can create a more comprehensive understanding of the problem and potential solutions. Mapping can also help to identify patterns, trends and opportunities that can inform the design process, this would be a great way to explore the possible solutions and to come up with new ideas and concepts. I enjoyed exploring this tool during the class and have already implemented into my work and studies.
+
+
+
+
+
+
+
 
 
 
