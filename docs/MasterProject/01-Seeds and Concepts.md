@@ -23,7 +23,6 @@ In terms of career choice, the device could help individuals understand how diff
 
 In terms of food, nutrition and exercise, this device could help individuals understand how different types of diet regimens and activities affect their nervous system. They can then use this information to make more informed decisions about what they eat, what types of physical activity they engage in, and how they spend their time. This is also a new way to approach health interpretation without idealizing perfect standards that are unattainable for some, and following what feels good for.
 
-In this way, the device could provide a sense of security and direction when it comes to discovering things that an individual may like or dislike. By providing real-time feedback on the activity of the nervous system, the device can help individuals understand how different activities, foods, and environments affect them and make more informed decisions about how to care for themselves.
 
 Another important aspect of this device is its ability to provide a new open-source perspective for research on the nervous system. Researchers in fields such as neuroscience, psychology, and medicine can use the data collected by these devices to gain a deeper understanding of how the nervous system functions and how it responds to different stimuli.
 
