@@ -67,6 +67,9 @@ a .hover-circle {
   transform: translate(-50%, -50%);
 }
 
+<a href="#" class="hover-circle-trigger">Hover over me</a>
+
+
 
 .hover-circle-trigger:hover .hover-circle {
   width: 50px;
