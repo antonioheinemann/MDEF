@@ -56,7 +56,7 @@ a:hover .hover-circle {
   width: 50px;
   height: 50px;
   background: rgb(255, 255, 255);
-  border: 2px solid white;
+  border: 20px solid white;
   pointer-events: all;
 }
 
@@ -65,16 +65,4 @@ a .hover-circle {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-<a href="#" class="hover-circle-trigger">Hover over me</a>
-
-
-
-.hover-circle-trigger:hover .hover-circle {
-  width: 50px;
-  height: 50px;
-  background: rgb(255, 255, 255);
-  border: 2px solid white;
-  pointer-events: all;
 }
