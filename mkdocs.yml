@@ -31,6 +31,11 @@ nav:
       - The Next Billion Seconds: term2/01-TheNextBillionSeconds.md
       - Making Sense: term2/02-MakingSense.md
       - Remixing Materials: term2/02-RemixingMaterials.md
+      - Digital Prototyping for Design:
+          - Basic E&C (Making Sound): term2/00-DesignJourney.md
+          - Design Tools: term2/00-DesignJourney.md
+          - 2D Fabrication: term2/00-DesignJourney.md
+          - Inputs / Outputs: term2/00-DesignJourney.md
 
 
 extra:
