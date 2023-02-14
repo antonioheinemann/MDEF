@@ -11,7 +11,14 @@ Here is a presentation for our work in collaboration with Mark and Ramiro.
 <a href="https://1drv.ms/p/s!Aqrasm-B0zAVlSFXI0yNVS2Kr2hV?e=51GIlI">Remixing Materials, MDEF</a>
 
 
+
+
+
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/nomad.png" width="450"/>
+
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.jpg" width="450"/>
 
 
 Local source for coffee waste.
