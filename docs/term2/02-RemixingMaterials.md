@@ -36,18 +36,23 @@ Bioplastic results from our experiments. <align="right"/>
 
 
 
-Process and results of making a pot with mycelium.
+
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
 
 
+Process and results of making a pot with mycelium.
+
 
 
 ### Exploring Materials
+
+
 _**Coffee Grounds from Nomad**_
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/material.png" width="200"/>
+
 
 **Properties (functional, technical & emotional):**
 
