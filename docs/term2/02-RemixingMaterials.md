@@ -18,7 +18,8 @@ Here is a presentation for our work in collaboration with Mark and Ramiro.
 
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.png" width="450"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/tests.png" width="450" align="right"/>
+
 
 
 Local source for coffee waste.
@@ -26,7 +27,8 @@ Local source for coffee waste.
 
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/tests.png" width="450" align="right"/>
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.png" width="450 "align="left"/>
 
 
 Bioplastic results from our experiments. <align="right"/>
@@ -34,11 +36,7 @@ Bioplastic results from our experiments. <align="right"/>
 
 
 
-
-
-
 Process and results of making a pot with mycelium.
-
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
