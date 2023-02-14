@@ -7,23 +7,39 @@ hide:
 ## Remixing Materials
 
 Here is a presentation for our work in collaboration with Mark and Ramiro.
+
 <a href="https://1drv.ms/p/s!Aqrasm-B0zAVlSFXI0yNVS2Kr2hV?e=51GIlI">Remixing Materials, MDEF</a>
 
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/nomad.png" width="450"/>
+
+
 Local source for coffee waste.
 
+
+
+
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/tests.png" width="450"/>
+
+
 Bioplastic results from our experiments.
 
+
+
+
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
+
+
 Process and results of making a pot with mycelium.
+
+
+
 
 
 ### Exploring Materials
 _**Coffee Grounds from Nomad**_
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/material.png" width="450"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/material.png" width="200"/>
 
 **Properties (functional, technical & emotional):**
 
@@ -67,10 +83,20 @@ The material itself can be a multitude of vessels. Yet, the real material in reg
 **What is the story behind them (who did them, why, where did it come from?)**
 Dasha Plesen is an artist from Moscow. She uses molds, bacteria, and fungi to create unique textures and patterns on various materials such as paper, leather, and textiles. Her work challenges what we consider beautiful and valuable, using often overlooked organisms to encourage us to rethink our relationship with the microbial world. One of her projects is called "Fungal Futures," where she creates intricate designs using fungi.
 
+
+
+https://www.behance.net/gallery/161293585/Colour-studies/modules/909962601
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/dasha1.png" width="500" />
+
+
+
+https://www.behance.net/gallery/161293585/Colour-studies/modules/909962593
+<img src="https://antonioheinemann.github.io/MDEF/images/MT01/dasha2.png" width="500" />
+
+
+
+
 Bacteria and fungi are some of the oldest and most widespread forms of life on Earth, with origins dating back billions of years. Over time, bacteria and fungi diversified and adapted to a wide range of environments, including harsh and extreme conditions. Bacteria and fungi are found in virtually every corner of the Earth and have many important applications in human society.
 
 **Applications:**
 Audiovisual content. Videos, animations or photography. The results from bacteria are seducing and harmonizing. It could be a great application for any type of content really. It could also benefit from this format since it can be expanded in a live stream. Other applications for this could include prints of all sizes for decoration or visuals for design and art.
-
-
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/seeu.png" width="450"/>
