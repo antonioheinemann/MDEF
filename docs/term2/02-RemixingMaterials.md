@@ -7,13 +7,23 @@ hide:
 ## Remixing Materials
 
 Here is a presentation for our work in collaboration with Mark and Ramiro.
-<iframe src="https://1drv.ms/p/s!Aqrasm-B0zAVlSFXI0yNVS2Kr2hV?e=51GIlI" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<a href="https://1drv.ms/p/s!Aqrasm-B0zAVlSFXI0yNVS2Kr2hV?e=51GIlI">Remixing Materials, MDEF</a>
 
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/nomad.png" width="450"/>
+Local source for coffee waste.
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/tests.png" width="450"/>
+Bioplastic results from our experiments.
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
+Process and results of making a pot with mycelium.
 
 
 ### Exploring Materials
 _**Coffee Grounds from Nomad**_
 
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/material.png" width="450"/>
 
 **Properties (functional, technical & emotional):**
 
@@ -39,6 +49,12 @@ _**Bacteria, Funghi, from Prana**_
 From the references, _Dasha Plesen. color studies_
 This is also my ideal material.
 
+<a href="https://www.behance.net/gallery/161293585/Colour-studies/modules/909962601">Color studies, Dasha Plesen</a>
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/bact.png" width="450"/>
+
+
 **Properties (functional, technical & emotional):**
 
 Living, fractal, geometric, spontaneous. Gives me joy, creativity and a burst of energy. Makes me reflect on the multitude of dimensions that exist in reality and our constant, yet ignorant, relation to them.  
@@ -55,3 +71,6 @@ Bacteria and fungi are some of the oldest and most widespread forms of life on E
 
 **Applications:**
 Audiovisual content. Videos, animations or photography. The results from bacteria are seducing and harmonizing. It could be a great application for any type of content really. It could also benefit from this format since it can be expanded in a live stream. Other applications for this could include prints of all sizes for decoration or visuals for design and art.
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/seeu.png" width="450"/>
