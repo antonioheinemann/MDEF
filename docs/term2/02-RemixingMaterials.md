@@ -27,11 +27,14 @@ Bioplastic results from our experiments. <align="right"/>
 
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
+
 
 
 Process and results of making a pot with mycelium.
 
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
 
 
 
