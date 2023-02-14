@@ -18,7 +18,7 @@ Here is a presentation for our work in collaboration with Mark and Ramiro.
 
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.jpg" width="450"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.png" width="450"/>
 
 
 Local source for coffee waste.
