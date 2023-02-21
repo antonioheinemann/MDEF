@@ -15,13 +15,13 @@ If we could visualize HRV in real time, can we learn how to achieve balance?
 
 By collecting heart rate data from ECG sensors, calculating HRV of a user, and visualizing this information in an engaging format, we could allow users to understand their bodily states and redirect them towards states of higher benefit.
 
+See the full repo for this project here < rc ="https://github.com/dhritidhoka/Microchallenge1" />.
 
 
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart1.png" width="350 "align="left"/>
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart1.png" width="450 "align="left"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart2.png" width="350 "align="right"/>
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart2.png" width="450 "align="right"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart3.png" width="350 "align="left"/>
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart3.png" width="450 "align="left"/>
-
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart4.png" width="450 "align="right"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart4.png" width="350 "align="right"/>
