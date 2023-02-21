@@ -7,42 +7,11 @@ hide:
 ## Remixing Materials
 
 Here is a presentation for our work in collaboration with Mark and Ramiro.
-
 <a href="https://1drv.ms/p/s!Aqrasm-B0zAVlSFXI0yNVS2Kr2hV?e=51GIlI">Remixing Materials, MDEF</a>
 
 
 
-
-
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/nomad.png" width="450"/>
-
-
-
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/tests.png" width="450" align="right"/>
-
-
-
-Local source for coffee waste.
-
-
-
-
-
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.png" width="450 "align="left"/>
-
-
-Bioplastic results from our experiments. <align="right"/>
-
-
-
-
-
-
-
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
-
-
-Process and results of making a pot with mycelium.
 
 
 
@@ -113,3 +82,33 @@ Bacteria and fungi are some of the oldest and most widespread forms of life on E
 
 **Applications:**
 Audiovisual content. Videos, animations or photography. The results from bacteria are seducing and harmonizing. It could be a great application for any type of content really. It could also benefit from this format since it can be expanded in a live stream. Other applications for this could include prints of all sizes for decoration or visuals for design and art.
+
+
+
+
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/process.png" width="450"/>
+
+
+Process and results of making a pot with mycelium.
+
+
+
+
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/tests.png" width="450" align="right"/>
+
+
+
+Local source for coffee waste.
+
+
+
+
+
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/resultsco.png" width="450 "align="left"/>
+
+
+Bioplastic results from our experiments. <align="right"/>

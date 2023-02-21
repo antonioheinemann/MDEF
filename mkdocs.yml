@@ -33,9 +33,10 @@ nav:
       - Remixing Materials: term2/02-RemixingMaterials.md
       - Digital Prototyping for Design:
           - Basic E&C (Making Sound): term2/00-DesignJourney.md
-          - Design Tools: term2/00-DesignJourney.md
-          - 2D Fabrication: term2/00-DesignJourney.md
-          - Inputs / Outputs: term2/00-DesignJourney.md
+          - Design Tools: term2/00-designtools.md
+          - 2D Fabrication: term2/03-2dfabrication.md
+          - Inputs / Outputs: term2/03-inputsoutputs.md
+          - Microchallenge I: term2/04-challenge1.md
 
 
 extra:
