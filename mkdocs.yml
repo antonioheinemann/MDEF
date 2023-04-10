@@ -31,12 +31,11 @@ nav:
       - The Next Billion Seconds: term2/01-TheNextBillionSeconds.md
       - Making Sense: term2/02-MakingSense.md
       - Remixing Materials: term2/02-RemixingMaterials.md
-      - Digital Prototyping for Design:
-          - Basic E&C (Making Sound): term2/03-EC.md
-          - Design Tools: term2/00-designtools.md
-          - 2D Fabrication: term2/03-2dfabrication.md
-          - Inputs / Outputs: term2/03-inputsoutputs.md
-          - Microchallenge I: term2/04-challenge1.md
+      - Digital Prototyping for Design: term2/03-PrototypingforDesign.md
+      - Design Challenges: term2/04-challenges.md
+      - Measuring the world: term2/05-measuring.md
+      - Communicating Ideas: term2/05-CommunicatingIdeas.md
+
 
 
 extra:

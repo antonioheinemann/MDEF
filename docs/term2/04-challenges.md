@@ -4,7 +4,7 @@ hide:
     - <h1>
 ---
 #
-## Sensing Heart Aura ~ Microchallenge I
+## Sensing Heart Aura vol.1 ~ Microchallenge I
 
 
 Our interests overlapped in concepts surrounding mental and physical health, and a more holistic perspective on wellness. We discussed the wisdom that our bodies hold, and their constant expression of feeling. It is important to listen to our bodies and follow what they desire if we want to enjoy living well. So, we decided to prototype a biofeedback device that aids in understanding information that our nervous systems are transmitting so as to provide tools to improve wellbeing. We thought, what if we can visualize clearly what our nervous system is expressing? Can this help us to control our bodily states and the way our minds interpret existence?
@@ -25,3 +25,22 @@ See the full repo for this project here < src ="https://github.com/dhritidhoka/M
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart3.png" width="450" />
 
 <img src="https://antonioheinemann.github.io/MDEF/images/MT02/heart4.png" width="450" />
+
+
+
+
+## Sensing Heart Aura vol.2 ~ Microchallenge II
+
+
+For the second challenge, we decided to do a more robust and comprehensive volume of our intial prototype for sensing Heart Rate Variability (HRV). We are aware of many of the features and potential to be explored after the first version, and decided to go all in for a second time around.
+
+- Improved base for acrillic panes made out of wood, CNC milled.
+- Improved design for the acrillic panes, for a cleaner and smoother sphere.
+- Improved heart sensing data with better coding calibration and new sensors.
+- Wireless display sculpture, connecting over Wifi.
+- 2-part system, including a sensing module with a 3D printed case and 1 feather, and a receiving feather for the sculpture.
+- Improved LED transitions and visualization.
+
+Check out the link for the complete repository of the project here:
+
+See the full repo for this project here < src ="https://github.com/dhritidhoka/Microchallenge-II/blob/main/README.md" />.
