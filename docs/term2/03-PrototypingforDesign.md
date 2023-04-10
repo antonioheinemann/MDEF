@@ -16,7 +16,7 @@ I worked on the board schematics, taking into consideration the different compon
 
 It was a simple but surprisingly fun exercise in understanding how hardware and software can work together to create a functional device.
 
-<![](https://i.imgur.com/Vaw2ede.jpg) width="450">
+<![](https://i.imgur.com/Vaw2ede.jpg) width="400">
 
 
 ### No.2 // Design Tools
