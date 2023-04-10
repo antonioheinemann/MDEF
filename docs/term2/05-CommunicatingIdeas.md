@@ -7,4 +7,4 @@ hide:
 ## Communicating Ideas
 ### My personal brand
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/personalbrand.png" width="450"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/personalbrand.png" />
