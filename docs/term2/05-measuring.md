@@ -10,6 +10,10 @@ The course on data provided us with an in-depth understanding of data and how it
 
 From a fabrication point of view, the coding aspect to this prototype was interesting as we managed to program the LED necklace to turn on randomly in different colors for every hour of classtime. This way, even ourselves that programmed the necklace would not know exactly when the lights were going to turn on and made us equal participants in the activity like the rest of our classmates. It was also interesting to see that such a prototype actually impacted our attention and made us engage with the necklace even more, perhaps, than the class itself. We were so attentive!
 
+
+Here is the link for the coplete report on HackMD:
+<a href="https://hackmd.io/V5oxTmRXTGC1IJY0ac_oAw">https://hackmd.io/V5oxTmRXTGC1IJY0ac_oAw</a> == $0
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
