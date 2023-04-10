@@ -16,7 +16,7 @@ I worked on the board schematics, taking into consideration the different compon
 
 It was a simple but surprisingly fun exercise in understanding how hardware and software can work together to create a functional device.
 
-![](https://i.imgur.com/Vaw2ede.jpg)
+<![](https://i.imgur.com/Vaw2ede.jpg) width="450">
 
 
 ### No.2 // Design Tools
@@ -29,9 +29,30 @@ For the parametric croissant design, I decided to do a hand sketch. The sketch p
 
 Next, for the 3D design based on algorithmic thinking of any concept, I decided to design a parametric bench. Although we received a greatand insightful presentation about digital tools and programs for 2D, 3D, parametric and generative design, I would have liked to receive more classes, instructions, guidance or support to actually use these tools. Unlike some of my other classmates in MDEF, I have no previous experience on using these tools and had to start with the basics. I followed the instructions of a Youtube video (https://www.youtube.com/watch?v=2rKnybai4gs) on parametric modeling for a bench. It was an interesting exercise to learn about Rhino and the functions for Loft and Contoue, as well as some of the other basic functions of the tool. I enjoyed this exercise and learned to become more comfortable with Rhino. I imagine this bench to be composed of a number of wooden frames. Here is the result:
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfvs2SGL4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfvs2SGL4&#x2F;view?utm_content=DAFfvs2SGL4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Parametric Bench</a> by Antonio Heinemann
+
+
+
 
 ### No.3 // 2D Fabrication
 For this assignment, we were tasked to create a parametric model and print it using a laster cutter. Although I had some initial ideas to create a laser-cut chess board, I did not have enough time to do so and had to invest my resource in working towards completing the challenge no.1. Here, there were two concepts that I fabricated. For the challenge, together with Dhriti, we created a sculpture that illustrates in a visually attractive format an important metric about how our bodies respond to different stimuli (more on this on the Challenges section of my site). For the sculputre, there were two important fabrications: (1) the wooden base to hold acrillic panes, and (2) a rastler engraving on the acrillic panes with a spiraled sphere design. We made the designs on Rhino. Here are the results:
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfvtGVHs4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfvtGVHs4&#x2F;view?utm_content=DAFfvtGVHs4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2D Fabrication</a> by Antonio Heinemann
+
 
 ### No.4 // Inputs + Outputs
 For the next micro-challenge, we were tasked to design a system of inputs and outputs using Arduino that uses an LDR sensor, a button, an LED to create a telegram. In this system, the button turns on an LED while pressed, and turns it off while unpressed. Then, the LDR sensor detects when there is light. Although the assignment suggestion was to work in pairs using two separate boards, for time efficiency reasons I decided to design the system using a single board and to complete the assignment by myself. Using the LDR readings, the system would identify if the light was on for a short period of time, or for an extended period of time. This would represent the equivalent of a dot (.) or dash (-) in morse code. Then, I programmed variables for each letter in Morse, and got the system to identify a few letters. I got stuck on the part where I had to concatenate the sensor data in order to actually identify all letters. I only managed the code to recognize letters E and T, which consist only of a dot (.) and a dash (-) respectively. Although I did not manage to successfully create the telegram, which was a rather complex exercise, the challenge was really exciting and I enjoyed working on this project a lot.
