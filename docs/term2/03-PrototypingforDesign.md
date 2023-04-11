@@ -16,7 +16,7 @@ I worked on the board schematics, taking into consideration the different compon
 
 It was a simple but surprisingly fun exercise in understanding how hardware and software can work together to create a functional device.
 
-<![](https://i.imgur.com/Vaw2ede.jpg) width="400">
+<!-- <![](https://i.imgur.com/Vaw2ede.jpg) width="400"> -->
 
 
 ### No.2 // Design Tools
@@ -24,7 +24,7 @@ For the next micro-challenge, we were tasked to parametrize a croissant and also
 
 For the parametric croissant design, I decided to do a hand sketch. The sketch parametrizes 2 diferent triangle sizes and uses a total of 9 triangles that combine to give shape to the croissant from a top view. Here is the result:
 
-![](https://i.imgur.com/ySPAkhx.jpg)
+<!-- ![](https://i.imgur.com/ySPAkhx.jpg) -->
 
 
 Next, for the 3D design based on algorithmic thinking of any concept, I decided to design a parametric bench. Although we received a greatand insightful presentation about digital tools and programs for 2D, 3D, parametric and generative design, I would have liked to receive more classes, instructions, guidance or support to actually use these tools. Unlike some of my other classmates in MDEF, I have no previous experience on using these tools and had to start with the basics. I followed the instructions of a Youtube video (https://www.youtube.com/watch?v=2rKnybai4gs) on parametric modeling for a bench. It was an interesting exercise to learn about Rhino and the functions for Loft and Contoue, as well as some of the other basic functions of the tool. I enjoyed this exercise and learned to become more comfortable with Rhino. I imagine this bench to be composed of a number of wooden frames. Here is the result:
@@ -114,4 +114,4 @@ For this micro-challenge, we were tasked to use our previous knowledge on networ
 ### No.8 // CNC
 For the final micro-challenge, we were tasked to use the CNC milling machine to craete something of our choice. Although my original plans were to build and create a chair, I only managed to have enough time to make the desing sketches and begin with the 3D modeling of it. I am still on the process of this design, and will complete it in the following weeks. Stay posted for the results! Here are some pictures of the sketches for the chair. Yet, we did manage to use the CNC machine and worked with some designs with Dhriti for our second challenge. Different from our first prototype, which had a base made out of a bioplastic using coffee waste, we created a beatiful base for the acrillic panes using the CNC. The result was amazing and I am exciting to use the CNC machine again. Here are some pictures of the process and the result. Big credits to Dhriti on this part of the challenge as the design was on great part a production of hers.
 
-![](https://i.imgur.com/keFtIuW.jpg)
+<!-- ![](https://i.imgur.com/keFtIuW.jpg) -->
