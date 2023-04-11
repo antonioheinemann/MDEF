@@ -15,7 +15,7 @@ If we could visualize HRV in real time, can we learn how to achieve balance?
 
 By collecting heart rate data from ECG sensors, calculating HRV of a user, and visualizing this information in an engaging format, we could allow users to understand their bodily states and redirect them towards states of higher benefit.
 
-See the full repo for this project here < src ="https://github.com/dhritidhoka/Microchallenge1" />.
+See the full repo for this project here https://github.com/dhritidhoka/Microchallenge1
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
