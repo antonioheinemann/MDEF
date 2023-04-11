@@ -13,18 +13,18 @@ nav:
   - About: about/me.md
   - Master Project: MasterProject/01-SeedsandConcepts.md
   - Reflections:
-    # - Term I:
-    #   - Design Studio:
-    #     - Bootcamp: term1/00-Design Studio.md
-    #     - Vision and Identity: term1/01-VisionAndIdentity.md
-    #     - Roles of Prototyping: term1/02-Prototyping/
-    #     - Design Dialogues: term1/08-Design Dialogues.md
-    #   - Atlas of Weak Signlas: term1/02-AoWS/
-    #   - BioAgriZero: term1/03-BioAgriZero/
-    #   - Living With Your Own Ideas: term1/04-LivingWithYourIdeas/
-    #   - Tech Beyond the Myth: term1/05-TechBeyondMyth/
-    #   - Community Engagement: term1/06-CommunityEngagement/
-    #   - Extended Intelligences: term1/07-ExtendedIntelligences/
+    - Term I:
+      - Design Studio:
+        - Bootcamp: term1/00-Design Studio.md
+        - Vision and Identity: term1/01-VisionAndIdentity.md
+        - Roles of Prototyping: term1/02-Prototyping/
+        - Design Dialogues: term1/08-Design Dialogues.md
+      - Atlas of Weak Signlas: term1/02-AoWS/
+      - BioAgriZero: term1/03-BioAgriZero/
+      - Living With Your Own Ideas: term1/04-LivingWithYourIdeas/
+      - Tech Beyond the Myth: term1/05-TechBeyondMyth/
+      - Community Engagement: term1/06-CommunityEngagement/
+      - Extended Intelligences: term1/07-ExtendedIntelligences/
     - Term II:
       - Design Studio:
           - Design Journey: term2/00-DesignJourney.md
