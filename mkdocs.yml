@@ -35,7 +35,10 @@ nav:
       - Design Challenges: term2/04-challenges.md
       - Measuring the world: term2/05-measuring.md
       - Communicating Ideas: term2/05-CommunicatingIdeas.md
-
+    - Term III:
+      - Design Studio:
+          - Design Journey: term2/00-DesignJourney.md
+      - Distributed Design: term3/00-DistributedDesign.md
 
 
 extra:
