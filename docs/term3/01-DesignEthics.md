@@ -7,7 +7,7 @@ hide:
 ## Design Ethics
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/ethics4.png"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/ethics4.png" "width = 400"/>
 
 
 This seminar by Ariel Guersenzvaig was truly insightful and thought provoking around the role of technology in our lives. It has now become clear to me that technology is not just something separate from us; it is deeply woven into our existence. It is not neutral, nor does it determine who we are, but it plays a significant part in shaping our world. To start, I've come to question what really is technology and how simple or complex can it get. One crucial idea I've come to understand is that design is more than just creating functional products; it is a reflection of our ethical values. When we design technology, we must consider the impact it will have on individuals and society. Human knowledge, driven by our values, is essential for the development and responsible use of technology. It is often easy to overlook the influence of technology until it directly affects us. We tend to take it for granted until it becomes relevant in our lives.
