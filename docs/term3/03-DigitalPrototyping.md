@@ -10,23 +10,7 @@ hide:
 We explored the topic of robots and robotic arms. It was brief and interesting as an introduction to a first-time interaction with the technology. We were able to move the arm and witness light painting with a robot following a 3D visualized "MDEF". I remain curious as to understanding the potential applications of this tool and to interact with robotics in the future.
 
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/robots1.JPG" style="float: left;" width="300"/>
-
-
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/robots2.jpg" style="float: right;" width="300"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/robots1.JPG" width="400"/>
 
 ### No.2 // Introduction to Blender
 In this session, we were introduced to Blender as a great open source software that has tremendous capabilities. I have no previous experience using this tool and was intrigued by its ability to integrate Python and to use other functionalities of complex nature. I would like to continue learning about Blender and to become proficient in the tool.
