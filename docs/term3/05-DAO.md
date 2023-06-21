@@ -8,7 +8,7 @@ hide:
 
 In this seminar we explored the world of Web3, blockchain technology, and NFTs. Although brief and introdoctury, it was an interesting seminar with debates and experimentations. Particularly, we were able to create a virtual wallet using Temple and created and exchanged our own token worth in Tezos. It was very simple, but opened the door to understand better the concepts.
 
-<img src="https://antonioheinemann.github.io/MDEF/images/MT02/DAO.jpeg" width="450"/>
+<img src="https://antonioheinemann.github.io/MDEF/images/MT02/DAO.jpeg"/>
 
 We were assigned to explore other potential concepts. With Ramiro, we conceptualized a gamification platform for wellbeing where users can obtain NFT tokens upon achieving consistent positive HRV levels.
 

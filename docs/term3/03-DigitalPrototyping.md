@@ -17,6 +17,17 @@ We explored the topic of robots and robotic arms. It was brief and interesting a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ### No.2 // Introduction to Blender
 In this session, we were introduced to Blender as a great open source software that has tremendous capabilities. I have no previous experience using this tool and was intrigued by its ability to integrate Python and to use other functionalities of complex nature. I would like to continue learning about Blender and to become proficient in the tool.
 
